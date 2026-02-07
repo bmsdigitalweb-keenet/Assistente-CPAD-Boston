@@ -1,0 +1,5 @@
+{
+  "name": "CPAD Boston Assistant",
+  "description": "A conversational AI agent designed to simulate a WhatsApp customer service experience for CPAD Boston, specialized in Bibles, Christian literature, and Sunday School resources.",
+  "requestFramePermissions": []
+}
